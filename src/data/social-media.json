@@ -1,0 +1,19 @@
+{
+  "social-media": [
+    {
+      "url": "https://www.facebook.com/HyperOptimal/",
+      "icon_name": "mdi-facebook",
+      "show": true
+    },
+    {
+      "url": "",
+      "icon_name": "fab fa-twitter",
+      "show": false
+    },
+    {
+      "url": "",
+      "icon_name": "fab fa-instagram",
+      "show": false
+    }
+  ]
+}

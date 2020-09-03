@@ -1,0 +1,211 @@
+---
+label: property
+hide_body: true
+fields:
+- type: field_group_list
+  name: residential
+  label: residential
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: text
+    name: address
+    label: address
+  - type: text
+    name: city
+    label: city
+  - type: text
+    name: province
+    label: province
+  - type: text
+    name: postal_code
+    label: postal_code
+  - type: field_group
+    name: amenities
+    label: amenities
+    fields:
+    - type: list
+      name: including
+      label: including
+    - type: list
+      name: facility
+      label: facility
+    - type: list
+      name: 'prohibition '
+      label: 'prohibition '
+  - type: field_group_list
+    name: units
+    label: units
+    fields:
+    - type: text
+      name: name
+      label: name
+    - type: number
+      name: price
+      label: price
+    - type: number
+      name: bathroom
+      label: bathroom
+    - type: number
+      name: bedroom
+      label: bedroom
+    - type: number
+      name: kitchen
+      label: kitchen
+    - type: number
+      name: livingroom
+      label: livingroom
+    - type: boolean
+      name: availability
+      label: availability
+  - type: textarea
+    name: description
+    label: description
+  - type: datetime
+    name: upload_time
+    label: upload_time
+  - type: image_gallery
+    name: images
+    label: images
+  - type: file
+    name: cover_page
+    label: cover_page
+- type: field_group_list
+  name: commercial
+  label: commercial
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: text
+    name: address
+    label: address
+  - type: text
+    name: city
+    label: city
+  - type: text
+    name: province
+    label: province
+  - type: text
+    name: postal_code
+    label: postal_code
+  - type: field_group
+    name: amenities
+    label: amenities
+    fields:
+    - type: list
+      name: including
+      label: including
+    - type: list
+      name: facility
+      label: facility
+    - type: list
+      name: 'prohibition '
+      label: 'prohibition '
+  - type: field_group_list
+    name: units
+    label: units
+    fields:
+    - type: text
+      name: name
+      label: name
+    - type: number
+      name: price
+      label: price
+    - type: number
+      name: bathroom
+      label: bathroom
+    - type: number
+      name: bedroom
+      label: bedroom
+    - type: number
+      name: kitchen
+      label: kitchen
+    - type: number
+      name: livingroom
+      label: livingroom
+    - type: boolean
+      name: availability
+      label: availability
+  - type: textarea
+    name: description
+    label: description
+  - type: datetime
+    name: upload_time
+    label: upload_time
+  - type: image_gallery
+    name: images
+    label: images
+  - type: file
+    name: cover_page
+    label: cover_page
+- type: field_group_list
+  name: wearhouse
+  label: wearhouse
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: text
+    name: address
+    label: address
+  - type: text
+    name: city
+    label: city
+  - type: text
+    name: province
+    label: province
+  - type: text
+    name: postal_code
+    label: postal_code
+  - type: field_group
+    name: amenities
+    label: amenities
+    fields:
+    - type: list
+      name: including
+      label: including
+    - type: list
+      name: facility
+      label: facility
+    - type: list
+      name: 'prohibition '
+      label: 'prohibition '
+  - type: field_group_list
+    name: units
+    label: units
+    fields:
+    - type: text
+      name: name
+      label: name
+    - type: number
+      name: price
+      label: price
+    - type: number
+      name: bathroom
+      label: bathroom
+    - type: number
+      name: bedroom
+      label: bedroom
+    - type: number
+      name: kitchen
+      label: kitchen
+    - type: number
+      name: livingroom
+      label: livingroom
+    - type: boolean
+      name: availability
+      label: availability
+  - type: textarea
+    name: description
+    label: description
+  - type: datetime
+    name: upload_time
+    label: upload_time
+  - type: image_gallery
+    name: images
+    label: images
+  - type: file
+    name: cover_page
+    label: cover_page

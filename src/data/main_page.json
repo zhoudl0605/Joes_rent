@@ -1,0 +1,32 @@
+{
+  "carousel": [
+    {
+      "image": "https://freshome.com/wp-content/uploads/2018/09/contemporary-exterior.jpg",
+      "title": "Residence",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam dictum mattis velit, sit amet faucibus felis iaculis nec.",
+      "link": "/listing/residential"
+    },
+    {
+      "image": "https://img.monocle.com/stores/tokyo-543fe4b4e91d1.jpg?h=630&resize=aspectfit&g=center&q=50",
+      "title": "Commercial",
+      "content": "Aliquam dictum mattis velit, sit amet faucibus felis iaculis nec. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam dictum mattis velit, sit amet faucibus felis iaculis nec.",
+      "link": "/listing/commercial"
+    },
+    {
+      "image": "https://singularityhub.com/wp-content/uploads/2018/10/rows-shelves-goods-boxes-modern-industry_shutterstock_637308847-1068x601.jpg",
+      "title": "Wearhouse",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam dictum mattis velit, sit amet faucibus felis iaculis nec.",
+      "link": "/listing/wearhouse"
+    }
+  ],
+  "about": {
+    "title": "This is the title of this about section",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras lacinia magna vel molestie faucibus. Donec auctor et urnaLorem ipsum dolor sit amet, consectetur adipiscing elit. Cras lacinia magna vel molestie faucibus. Cras lacinia magna vel molestie faucibus. Donec auctor et urnaLorem ipsum dolor sit amet, consectetur adipiscing elit. Cras lacinia magna vel molestie faucibus.\n Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras lacinia magna vel molestie faucibus. Donec auctor et urnaLorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "image": "https://www.unipco.com/sites/default/files/member-images/joes.jpg"
+  },
+  "description": {
+    "commercial": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras lacinia magna vel molestie faucibus. Donec auctor et urnaLorem ipsum dolor sit amet, consectetur adipiscing elit. Cras lacinia magna vel molestie faucibus.",
+    "residential": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras lacinia magna vel molestie faucibus. Donec auctor et urnaLorem ipsum dolor sit amet, consectetur adipiscing elit. Cras lacinia magna vel molestie faucibus.",
+    "wearhouse": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras lacinia magna vel molestie faucibus. Donec auctor et urnaLorem ipsum dolor sit amet, consectetur adipiscing elit. Cras lacinia magna vel molestie faucibus."
+  }
+}

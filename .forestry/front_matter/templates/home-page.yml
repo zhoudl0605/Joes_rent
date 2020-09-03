@@ -1,0 +1,48 @@
+---
+label: Home Page
+hide_body: true
+fields:
+- type: field_group_list
+  name: carousel
+  label: carousel
+  fields:
+  - type: file
+    name: image
+    label: image
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: content
+    label: content
+  - type: text
+    name: link
+    label: link
+- type: field_group
+  name: about
+  label: about
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: content
+    label: content
+  - type: file
+    name: image
+    label: image
+- type: field_group
+  name: description
+  label: description
+  fields:
+  - type: textarea
+    name: commercial
+    label: commercial
+  - type: textarea
+    name: residential
+    label: residential
+  - type: textarea
+    name: wearhouse
+    label: wearhouse
+pages:
+- src/data/main_page.json

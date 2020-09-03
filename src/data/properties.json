@@ -1,0 +1,95 @@
+{
+  "residential": [
+    {
+      "name": "Mayar Tahina",
+      "address": "10 blomidon terrace",
+      "city": "wolfville",
+      "province": "Nova Scotia",
+      "postal_code": "B4P-2G9",
+      "amenities": {
+        "including": [
+          "ad"
+        ],
+        "facility": [
+          "asd"
+        ],
+        "prohibition ": [
+          "asd"
+        ]
+      },
+      "units": [
+
+      ],
+      "description": "asdasdasd",
+      "upload_time": "",
+      "images": [
+        "/uploads/IMG_0302.jpg",
+        "/uploads/IMG_0311.jpg",
+        "/uploads/IMG_0306.jpg",
+        "/uploads/IMG_0313.jpg"
+      ],
+      "cover_page": "/uploads/IMG_0310.jpg"
+    },
+    {
+      "name": "This is the name of property",
+      "address": " 434 Main St",
+      "city": "Wolfville",
+      "province": "NS",
+      "postal_code": "B4P 1E2",
+      "amenities": {
+        "including": [
+          "water",
+          "power"
+        ],
+        "facility": [
+          "parking"
+        ],
+        "prohibition ": [
+          "dog"
+        ]
+      },
+      "units": [
+        {
+          "name": "5 Bed Unit",
+          "price": 5001,
+          "bathroom": 5,
+          "bedroom": 2,
+          "kitchen": 1,
+          "livingroom": 1,
+          "availability": true
+        },
+        {
+          "name": "3 Bed Unit A",
+          "price": 500,
+          "bathroom": 3,
+          "bedroom": 2,
+          "kitchen": 1,
+          "livingroom": 1,
+          "availability": true
+        },
+        {
+          "name": "3 Bed Unit B",
+          "price": 400,
+          "bathroom": 3,
+          "bedroom": 2,
+          "kitchen": 1,
+          "livingroom": 1,
+          "availability": false
+        }
+      ],
+      "description": "This is the description of this property This is the description of this property ",
+      "upload_time": "2019-09-23 03:00:00 +0000",
+      "images": [
+        "/uploads/IMG_0281.jpg",
+        "/uploads/IMG_0302.jpg"
+      ],
+      "cover_page": "/uploads/IMG_0302.jpg"
+    }
+  ],
+  "commercial": [
+
+  ],
+  "wearhouse": [
+
+  ]
+}
